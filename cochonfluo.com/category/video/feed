@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vidéo &#8211; Cochon Fluo</title>
+	<atom:link href="https://cochonfluo.com/category/video/feed" rel="self" type="application/rss+xml" />
+	<link>https://cochonfluo.com</link>
+	<description>Un cochon fluorescent radioactif qui émets des rayonnements sonores, textuels et sexuels Mis au monde en 1986, en France, sous le nuage de Tchernobyl.</description>
+	<lastBuildDate>Mon, 04 Jan 2021 21:23:59 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.5</generator>
+
+<image>
+	<url>https://cochonfluo.com/wp-content/uploads/2020/12/logo-rond-48x48.png</url>
+	<title>Vidéo &#8211; Cochon Fluo</title>
+	<link>https://cochonfluo.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>[vidéo] Ne laissez pas le label vous labelliser</title>
+		<link>https://cochonfluo.com/blba</link>
+		
+		<dc:creator><![CDATA[cochon fluo]]></dc:creator>
+		<pubDate>Sun, 29 Nov 2020 20:01:45 +0000</pubDate>
+				<category><![CDATA[Vidéo]]></category>
+		<guid isPermaLink="false">http://cochonfluo.com/?p=76</guid>
+
+					<description><![CDATA[KRS ONE nous parle de Mikey et de Jésus, de culture marginale et mainstream, d'appartenance et d'étiquette]]></description>
+										<content:encoded><![CDATA[
+<p>KRS ONE nous parle de Mikey et de Jésus, de culture marginale et mainstream, d&rsquo;appartenance et d&rsquo;étiquettes. Une légende du rap que beaucoup de français connaissent pour le titre « <s>Assassins de la Police</s> » « That&rsquo;s the sound of the police » <a rel="noreferrer noopener" href="https://www.franceculture.fr/musique/assassins-de-la-police-histoire-dun-slogan-ne-dune-hallucination-collective" target="_blank">(« Assassins de la police » : histoire d&rsquo;un slogan né d&rsquo;une hallucination collective)</a>. </p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>« Don&rsquo;t let the label, label you ! »</p></blockquote></figure>
+
+
+
+<p>J&rsquo;ai sous-titré cette interview en français, la voici :</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="[KRS ONE] Ne laissez pas le label vous labelliser" width="720" height="405" src="https://www.youtube.com/embed/u5dE8hScH7s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
